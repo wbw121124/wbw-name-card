@@ -1,0 +1,56 @@
+@charset "utf-8";
+@import "tailwindcss";
+@import "@fortawesome/fontawesome-free/css/all.css";
+@import "animate.css";
+
+:root {
+	color-scheme: dark;
+
+	/* 基础背景与表面色 */
+	--dp-bg: #1e1e1e;
+	--dp-surface: #252526;
+	--dp-surface-hover: #2d2d30;
+	--dp-border: #3e3e42;
+
+	/* 文本色 */
+	--dp-text: #d4d4d4;
+	--dp-text-muted: #858585;
+	--dp-text-disabled: #5a5a5a;
+
+	/* 强调色与主色 (VS Code Dark+ 灵感) */
+	--dp-primary: #569cd6;
+	--dp-accent: #C586A1;
+	--dp-success: #60994A;
+	--dp-warning: #A0850D;
+	--dp-error: #F14C4C;
+}
+
+@theme {
+	/* 颜色映射 */
+	--color-dp-bg: var(--dp-bg);
+	--color-dp-surface: var(--dp-surface);
+	--color-dp-surface-hover: var(--dp-surface-hover);
+	--color-dp-border: var(--dp-border);
+	--color-dp-text: var(--dp-text);
+	--color-dp-text-muted: var(--dp-text-muted);
+	--color-dp-text-disabled: var(--dp-text-disabled);
+	--color-dp-primary: var(--dp-primary);
+	--color-dp-accent: var(--dp-accent);
+	--color-dp-success: var(--dp-success);
+	--color-dp-warning: var(--dp-warning);
+	--color-dp-error: var(--dp-error);
+
+	/* 阴影映射 */
+	--shadow-dp-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+	--shadow-dp-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+	--shadow-dp-lg: 0 7px 10px -2px rgba(0, 0, 0, 0.5);
+}
+
+#card,
+#card * {
+	transform-style: preserve-3d;
+}
+
+.floating {
+	transform: translate3d(0, 0, 10px);
+}

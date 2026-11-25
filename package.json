@@ -1,0 +1,28 @@
+{
+  "name": "wbwnamecard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "wbw121124",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "autoprefixer": "^10.7.0",
+    "postcss": "^8.5.33",
+    "tailwindcss": "^4.3.5",
+    "terser": "^5.51.4",
+    "vite": "^8.3.8",
+    "vite-plugin-singlefile": "^2.3.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.3.1",
+    "animate.css": "^4.1.1"
+  }
+}

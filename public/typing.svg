@@ -1,0 +1,746 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 1000 50'
+    style='background-color: #00000000;'
+    width='1000px' height='50px'>
+
+    <style>
+@font-face {
+  font-family: 'Consolas';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(data:font/truetype;base64,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JUdgsAYlR7CAY2GwAiWwAFVYsAMlsAclSWNZsAglWAAbAVmwBCWwBiVJsAklXLAJJVpYsAkrWbAHJUawgGNhsAMlILAAVVhjGyFZYSMgsABVWLCAYxshsIBZsFkrsAYlXFhpWbAEJSAgELAASCM6sAYmWAAbAVmwBSZYsAMlL1mKEiMyISEtLLAGJbAKJYewBiWwCSVKsABTWLAGJbAKJRuwCSWwByVZsAIlsAIlBwywBSVjI7AGJWNgILlAAAQAY1NYIbAEJrAEJrAKG7lAAAQAY2VRWLAEJmWwBCZlsAobsAQmsAQmsACwAyWwAyULDQqwCS6wByWwByULDQqwCy6wBSWwBSUHWVkgsABVWLAFJbAFJYewByWwByULsAklELALJbAJJiC4//9UWCHNG+1ZsAUlsAUlB7AIJbALJUkjsAYlsAYlh7AKJRCwCyXBWSCwAFG4AFIjeLABYbACJbAHJbAHJQewCiWwDSVJYbCAYrAFJbAFJQuwCiUjOLAGJbAGJYewCCWwCCULsAolELALJcSwBiWwBiUHsAklsAwlSbADJVS4/6cjeSEhISEhISEhISEhIS0sI7AAVFi5QAAAABu5AABAAFmKsABUWLlAAAAAG7kAAEAAWbBbKy0sCLAAVFi5QAAAABu5AABAAFkNsFsrLSyKiggNirAAVFi5QAAAABu5AABAAFmwWystLLAEJrAEJggNsAQmsAQmCA2wWystLCBFaUQtALkAIAIDtAkYAUoguAICtAkYAUoguAIBtAkYAUoguAIAtAkYAUoguAH/tAkYAUoguAH+tAkYAUoguAH9tAkYAUoguAH7tAkYAUoguAH6tAkYAUoguAH5tAkYAUoguAH4tAkYAUoguAH3tAkYAUoguAH2tAkYAUoguAH1tAkYAUoguAH0tAkYAUoguAHztAkYAUoguAHytAkYAUoguAHxtAkYAUoguAHwtAkYAUoguAHvtAkYAUoguAHutAkYAUoguAHttAkYAUoguAHstAkYAUoguAHrtAkYAUoguAHqtAkYAUoguAHptAkYAUoguAHotAkYAUoguAHntAkYAUoguAHmtAkYAUoguAHltAkYAUoguAHktAkYAUoguAHjtAkYAUoguAHitAkYAUoguAHhtAkYAUoguAHgtAkYAUoguAHftAkYAUoguAHetAkYAUoguAHdtAkYAUoguAHctAkYAUoguAHbtAkYAUoguAHatAkYAUoguAHZtAkYAUoguAHYtAkYAUoguAHXtAkYAUoguAHWtAkYAUoguAHVtAkYAUoguAHUtAkYAUoguAHTtAkYAUoguAHStAkYAUoguAHRtAkYAUoguAHQtAkYAUoguAHPtAkYAUoguAHOtAkYAUoguAHNtAkYAUoguAHMtAkYAUoguAHLtAkYAUoguAHKtAkYAUoguAHJtAkYAUoguAHItAkYAUoguAHHtAkYAUoguAHGtAkYAUoguAHFtAkYAUoguAHEtAkYAUoguAHDtAkYAUoguAHCtAkYAUoguAHBtAkYAUoguAHAtAkYAUoguAG/tAkYAUoguAG+tAkYAUoguAG9tAkYAUoguAG8tAkYAUoguAG7tAkYAUoguAG6tAkYAUoguAG5tAkYAUoguAG4tAkYAUoguAG3tAkYAUoguAG2tAkYAUoguAG1tAkYAUoguAG0tAkYAUoguAGztAkYAUoguAGytAkYAUoguAGxtAkYAUoguAGwtAkYAUoguAGvtAkYAUoguAGttAkYAUoguAGstAkYAUoguAGrtAkYAUoguAGqtAkYAUoguAGptAkYAUoguAGotAkYAUoguAGntAkYAUoguAGmtAkYAUoguAGltAkYAUoguAGktAkYAUoguAGitAkYAUoguAGhtAkYAUoguAGgtAkYAUoguAGftAkYAUoguAGdtAkYAUoguAGctAkYAUoguAGbtAkYAUoguAGatAkYAUoguAGZtAkYAUoguAGYtAkYAUoguAGXtAkYAUoguAGWtAkYAUoguAGVtAkYAUoguAGUtAkYAUoguAGTtAkYAUoguAGStAkYAUoguAGRtAkYAUoguAGQtAkYAUoguAGPtAkYAUoguAGOtAkYAUoguAGNtAkYAUoguAGKtAkYAUoguAGJtAkYAUoguAGItAkYAUoguAGHtAkYAUoguAGGtAkYAUoguAGFtAkYAUoguAGEtAkYAUoguAGDtAkYAUoguAGBtAkYAUoguAF/tAkYAUoguAF+tAkYAUoguAF9tAkYAUoguAF8tAkYAUoguAF7tAkYAUoguAF5tAkYAUoguAF4tAkYAUoguAF3tAkYAUoguAF2tAkYAUoguAF0tAkYAUoguAFztAkYAUoguAFytAkYAUoguAFvtAkYAUoguAFutAkYAUog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KysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysAKytzKysrKysrK3Nzc3R0c3MrK3N0dHUrdCtzdCtzKysrKysrKytzK3Nzc3Nzc3NzdCsrK3N0K3Nzc3N0c3MrcyuxAAJDVFhB/wIDAGQCAgBkAgEAZAIAAGQB/wBkAf4AZAH9AGQB+wBkAfoAZAH5AGQB+ABkAfcAZAH2AGQB9QBkAfQAZAHzAGQB8gBkAfEAZAHwAGQB7wBkAe4AZAHtAGQB7ABkAesAZAHqAGQB6QBkAegAZAHnAGQB5gBkAeUAZAHkAGQB4wBkAeIAZAHhAGQB4ABkAd8AZAHeAGQB3QBkAdwAZAHbAGQB2gBkAdkAZAHYAGQB1wBkAdYAZAHVAGQB1ABkAdMAZAHSAGQB0QBkAdAAZAHPAGQBzgBkAc0AZAHMAGQBywBkAcoAZAHJAGQByABkAccAZAHGAGQBxQBkAcQAZAHDAGQBwgBkAcEAZAHAAGQBvwBkAb4AZAG9AGQBvABkAbsAZAG6AGQBuQBkAbgAZAG3AGQBtgBkAbUAZAG0AGQBswBkAbIAZAGxAGQBsABkAa8AZAGtAGQBrABkAasAZAGqAGQBqQBkAagAZAGnAGQBpgBkAaUAZAGkAGQBogBkAaEAZAGgAGQBnwBkAZ0AZAGcAGQBmwBkAZoAZAGZAGQBmABkAZcAZAGWAGQBlQBkAZQAZAGTAGQBkgBkAZEAZAGQAGQBjwBkAY4AZAGNAGQBigBkAYkAZAGIAGQBhwBkAYYAZAGFAGQBhABkAYMAZAGBAGQBfwBkAX4AZAF9AGQBfEF9AGQBewBkAXkAZAF4AGQBdwBkAXYAZAF0AGQBcwBkAXIAZAFvAGQBbgBkAW0AZAFsAGQBawBkAWoAZAFpAGQBaABkAWcAZAFmAGQBZQBkAWQAZAFjAGQBYgBkAWEAZAFgAGQBXwBkAV4AZAFdAGQBXABkAVsAZAFZAGQBWABkAVcAZAFWAGQBVQBkAVQAZAFSAGQBUQBkAVAAZAFPAGQBTgBkAU0AZAFKAGQBSQBkAUYAZAFCAGQBQQBkAUAAZAE/AGQBPQBkATsAZAE5AGQBOABkATcAZAE2AGQBNQBkATQAZAEzAGQBMgBkATEAZAEwAGQBLwBkAS4AZCsrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKytZKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKxgAAAAEAFgAAAQOBRsAAwAHAB8AMQBcuQAjAZmyLQ8NuAE0tBAQCBoHvgEyAAIAEwFAAAgAAQEzQBAEAg2YEBAoGZkaBpcDQQ8guAEdtCgElgFDAD/93v3OP/3e7RI5L+0BL93h1uEQ8cYROS/hxdThMTABESERAREhEQEUDgIjByMnMzI1NC4CIyM1MzIeAgEyFhUUDgIjIi4CNTQ+AgQO/EoDWP0EAmsgQmdIBGQGcpAqTGtAIylpmWUx/rglMQ0XIBISHxcODhcfBRv65QUb+0EEYvueAugtVUEnnvyDLUgzG2QzUWf96zMlEh8XDg4XHxISIBgOAAACAAoAAARcBRsABwAKAGRAEgoDBAkEBQgCAQkBACAHBgkKCLgBDkAcAgMDCSgJBo8CnwICAgIEBwZBBQUEAQEEAAAEQwA/My8RMy8RMy8/MxI5L10SOTgzLxDtMgEZLzMzGhjNMn2HxMQBGM0yfYfExDEwISMDIQMjATMTAwMEXMJb/eBcuQGy9Fzd3QEd/uMFG/yhArv9RQAAAwCeAAAD+AUbABEAHgAp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) format('truetype');
+}
+</style>
+
+                                <path id='path0'>
+                            <!-- Single line -->
+                                <animate id='d0' attributeName='d' begin='0s;d51.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            Live and learn.
+        </textPath>
+    </text>
+                <path id='path1'>
+                            <!-- Single line -->
+                                <animate id='d1' attributeName='d' begin='d0.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path1'>
+            One man&#039;s meat is another man&#039;s poison.
+        </textPath>
+    </text>
+                <path id='path2'>
+                            <!-- Single line -->
+                                <animate id='d2' attributeName='d' begin='d1.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path2'>
+            Hope for the best, plan for the worst.
+        </textPath>
+    </text>
+                <path id='path3'>
+                            <!-- Single line -->
+                                <animate id='d3' attributeName='d' begin='d2.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path3'>
+            The man who has made up his mind to win will never say &quot;impossible&quot;.
+        </textPath>
+    </text>
+                <path id='path4'>
+                            <!-- Single line -->
+                                <animate id='d4' attributeName='d' begin='d3.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path4'>
+            Gå med MC utan ånger i detta liv, och vill vara en fyrkantig person i nästa liv!
+        </textPath>
+    </text>
+                <path id='path5'>
+                            <!-- Single line -->
+                                <animate id='d5' attributeName='d' begin='d4.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path5'>
+            Don&#039;t put off till tomorrow what you can do today.
+        </textPath>
+    </text>
+                <path id='path6'>
+                            <!-- Single line -->
+                                <animate id='d6' attributeName='d' begin='d5.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path6'>
+            Health is wealth.
+        </textPath>
+    </text>
+                <path id='path7'>
+                            <!-- Single line -->
+                                <animate id='d7' attributeName='d' begin='d6.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path7'>
+            Better late than never.
+        </textPath>
+    </text>
+                <path id='path8'>
+                            <!-- Single line -->
+                                <animate id='d8' attributeName='d' begin='d7.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path8'>
+            All that glitters is not gold.
+        </textPath>
+    </text>
+                <path id='path9'>
+                            <!-- Single line -->
+                                <animate id='d9' attributeName='d' begin='d8.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path9'>
+            Life is not all roses.
+        </textPath>
+    </text>
+                <path id='path10'>
+                            <!-- Single line -->
+                                <animate id='d10' attributeName='d' begin='d9.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path10'>
+            No pain, no gain
+        </textPath>
+    </text>
+                <path id='path11'>
+                            <!-- Single line -->
+                                <animate id='d11' attributeName='d' begin='d10.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path11'>
+             never be tired of teaching.
+        </textPath>
+    </text>
+                <path id='path12'>
+                            <!-- Single line -->
+                                <animate id='d12' attributeName='d' begin='d11.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path12'>
+            Nothing is impossible to a willing heart.
+        </textPath>
+    </text>
+                <path id='path13'>
+                            <!-- Single line -->
+                                <animate id='d13' attributeName='d' begin='d12.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path13'>
+            Where there is a will, there is a way.
+        </textPath>
+    </text>
+                <path id='path14'>
+                            <!-- Single line -->
+                                <animate id='d14' attributeName='d' begin='d13.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path14'>
+            To be, or not to be, that is the question.
+        </textPath>
+    </text>
+                <path id='path15'>
+                            <!-- Single line -->
+                                <animate id='d15' attributeName='d' begin='d14.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path15'>
+            A journey of a thousand miles begins with a single step.
+        </textPath>
+    </text>
+                <path id='path16'>
+                            <!-- Single line -->
+                                <animate id='d16' attributeName='d' begin='d15.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path16'>
+            Experience is the best teacher.
+        </textPath>
+    </text>
+                <path id='path17'>
+                            <!-- Single line -->
+                                <animate id='d17' attributeName='d' begin='d16.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path17'>
+            Success belongs to the persevering.
+        </textPath>
+    </text>
+                <path id='path18'>
+                            <!-- Single line -->
+                                <animate id='d18' attributeName='d' begin='d17.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path18'>
+            He that promises too much means nothing.
+        </textPath>
+    </text>
+                <path id='path19'>
+                            <!-- Single line -->
+                                <animate id='d19' attributeName='d' begin='d18.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path19'>
+            Never be satisfied with learning
+        </textPath>
+    </text>
+                <path id='path20'>
+                            <!-- Single line -->
+                                <animate id='d20' attributeName='d' begin='d19.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path20'>
+            Think twice before you act.
+        </textPath>
+    </text>
+                <path id='path21'>
+                            <!-- Single line -->
+                                <animate id='d21' attributeName='d' begin='d20.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path21'>
+            Failure is the mother of success.
+        </textPath>
+    </text>
+                <path id='path22'>
+                            <!-- Single line -->
+                                <animate id='d22' attributeName='d' begin='d21.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path22'>
+            Nothing venture, nothing have.
+        </textPath>
+    </text>
+                <path id='path23'>
+                            <!-- Single line -->
+                                <animate id='d23' attributeName='d' begin='d22.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path23'>
+            Every cloud has a silver lining.
+        </textPath>
+    </text>
+                <path id='path24'>
+                            <!-- Single line -->
+                                <animate id='d24' attributeName='d' begin='d23.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path24'>
+            We can only move forward, forward, by any means necessary to move forward.
+        </textPath>
+    </text>
+                <path id='path25'>
+                            <!-- Single line -->
+                                <animate id='d25' attributeName='d' begin='d24.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path25'>
+            Faith can move mountains.
+        </textPath>
+    </text>
+                <path id='path26'>
+                            <!-- Single line -->
+                                <animate id='d26' attributeName='d' begin='d25.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path26'>
+            All is well that ends well.
+        </textPath>
+    </text>
+                <path id='path27'>
+                            <!-- Single line -->
+                                <animate id='d27' attributeName='d' begin='d26.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path27'>
+            An inch of time is an inch of gold, but you can&#039;t buy time with gold.
+        </textPath>
+    </text>
+                <path id='path28'>
+                            <!-- Single line -->
+                                <animate id='d28' attributeName='d' begin='d27.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path28'>
+            It is never too late to mend.
+        </textPath>
+    </text>
+                <path id='path29'>
+                            <!-- Single line -->
+                                <animate id='d29' attributeName='d' begin='d28.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path29'>
+            Men will die for wealth, as bird for food.
+        </textPath>
+    </text>
+                <path id='path30'>
+                            <!-- Single line -->
+                                <animate id='d30' attributeName='d' begin='d29.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path30'>
+            Wisdom is more precious than wealth.
+        </textPath>
+    </text>
+                <path id='path31'>
+                            <!-- Single line -->
+                                <animate id='d31' attributeName='d' begin='d30.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path31'>
+            He would climb the ladder must begin at the bottom.
+        </textPath>
+    </text>
+                <path id='path32'>
+                            <!-- Single line -->
+                                <animate id='d32' attributeName='d' begin='d31.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path32'>
+            Haste makes waste.
+        </textPath>
+    </text>
+                <path id='path33'>
+                            <!-- Single line -->
+                                <animate id='d33' attributeName='d' begin='d32.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path33'>
+            The early bird catches the worm.
+        </textPath>
+    </text>
+                <path id='path34'>
+                            <!-- Single line -->
+                                <animate id='d34' attributeName='d' begin='d33.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path34'>
+            Intelligence lies in diligence, and genius in accumulation.
+        </textPath>
+    </text>
+                <path id='path35'>
+                            <!-- Single line -->
+                                <animate id='d35' attributeName='d' begin='d34.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path35'>
+            Action speaks louder than words.
+        </textPath>
+    </text>
+                <path id='path36'>
+                            <!-- Single line -->
+                                <animate id='d36' attributeName='d' begin='d35.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path36'>
+            Well begun is half done.
+        </textPath>
+    </text>
+                <path id='path37'>
+                            <!-- Single line -->
+                                <animate id='d37' attributeName='d' begin='d36.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path37'>
+            Honesty is the best policy.
+        </textPath>
+    </text>
+                <path id='path38'>
+                            <!-- Single line -->
+                                <animate id='d38' attributeName='d' begin='d37.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path38'>
+            C++: a garbage language that even dogs don&#039;t learn-- Father of Linux
+        </textPath>
+    </text>
+                <path id='path39'>
+                            <!-- Single line -->
+                                <animate id='d39' attributeName='d' begin='d38.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path39'>
+            If you are not inside a house, you don not know about its leaking.
+        </textPath>
+    </text>
+                <path id='path40'>
+                            <!-- Single line -->
+                                <animate id='d40' attributeName='d' begin='d39.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path40'>
+            If you fail, don&#039;t forget to learn your lesson.
+        </textPath>
+    </text>
+                <path id='path41'>
+                            <!-- Single line -->
+                                <animate id='d41' attributeName='d' begin='d40.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path41'>
+            Action speak louder than words.
+        </textPath>
+    </text>
+                <path id='path42'>
+                            <!-- Single line -->
+                                <animate id='d42' attributeName='d' begin='d41.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path42'>
+            Two heads are better than one.
+        </textPath>
+    </text>
+                <path id='path43'>
+                            <!-- Single line -->
+                                <animate id='d43' attributeName='d' begin='d42.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path43'>
+            Books are the ladder of human progress.
+        </textPath>
+    </text>
+                <path id='path44'>
+                            <!-- Single line -->
+                                <animate id='d44' attributeName='d' begin='d43.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path44'>
+            First impressions are the most lasting.
+        </textPath>
+    </text>
+                <path id='path45'>
+                            <!-- Single line -->
+                                <animate id='d45' attributeName='d' begin='d44.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path45'>
+            Pride goes before a fall.
+        </textPath>
+    </text>
+                <path id='path46'>
+                            <!-- Single line -->
+                                <animate id='d46' attributeName='d' begin='d45.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path46'>
+            An idle youth,a needy age.
+        </textPath>
+    </text>
+                <path id='path47'>
+                            <!-- Single line -->
+                                <animate id='d47' attributeName='d' begin='d46.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path47'>
+            Time and tide wait for no man.
+        </textPath>
+    </text>
+                <path id='path48'>
+                            <!-- Single line -->
+                                <animate id='d48' attributeName='d' begin='d47.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path48'>
+            Misfortune is a good teacher.
+        </textPath>
+    </text>
+                <path id='path49'>
+                            <!-- Single line -->
+                                <animate id='d49' attributeName='d' begin='d48.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path49'>
+            Yesterday will not be called again.
+        </textPath>
+    </text>
+                <path id='path50'>
+                            <!-- Single line -->
+                                <animate id='d50' attributeName='d' begin='d49.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path50'>
+            A friend in need is a friend indeed.
+        </textPath>
+    </text>
+                <path id='path51'>
+                            <!-- Single line -->
+                                <animate id='d51' attributeName='d' begin='d50.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1000 ; m0,25 h1000 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Consolas", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path51'>
+            Your fearlessness comes from ignorance.
+        </textPath>
+    </text>
+</svg>
