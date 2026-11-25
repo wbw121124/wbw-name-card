@@ -1,0 +1,6 @@
+name = "wbw-name-card"
+compatibility_date = "2026-11-23"
+
+[assets]
+directory = "./dist"
+
