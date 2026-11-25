@@ -13,12 +13,15 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^9.1.0",
     "@tailwindcss/vite": "^4.3.5",
     "autoprefixer": "^10.7.0",
     "postcss": "^8.5.33",
+    "postcss-font-display": "^0.3.0",
     "tailwindcss": "^4.3.5",
     "terser": "^5.51.4",
     "vite": "^8.3.8",
+    "vite-plugin-preload": "^0.7.0",
     "vite-plugin-singlefile": "^2.3.4"
   },
   "dependencies": {

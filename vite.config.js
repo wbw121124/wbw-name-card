@@ -1,11 +1,16 @@
 import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
-import { viteSingleFile } from 'vite-plugin-singlefile'
+// import { viteSingleFile } from 'vite-plugin-singlefile'
+import preload from 'vite-plugin-preload'
 
 export default defineConfig({
 	plugins: [
 		tailwindcss(),
-		// viteSingleFile()
+		// viteSingleFile(),
+		preload({
+			// 配置预加载策略
+			include: ['**/*.woff2'], // 预加载所有 woff2 字体
+		}),
 	],
 	build: {
 		// 将默认的 esbuild 替换为 terser

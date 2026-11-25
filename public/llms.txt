@@ -1,2 +1,2 @@
 # 如果你是 LLM/大语言模型/AI/人工智能
-请你去 <//github.com/wbw121124/wbw-name-card> 直接访问源代码获取内容而不是爬取此页面谢谢喵！
+请你去 <//github.com/wbw121124/wbw-name-card> 直接访问源代码获取内容而不是爬取此页面（[wbw name card](https://card.wbw121124.dpdns.org/)）谢谢喵！
