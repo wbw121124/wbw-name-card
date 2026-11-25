@@ -42,7 +42,7 @@ export default defineConfig({
 					if (assetInfo.names[0] && assetInfo.names[0].endsWith('.css')) {
 						return 'assets/[name].[hash].css';
 					}
-					return 'assets/[name].[hash][ext]';
+					return 'assets/[name].[hash].[ext]';
 				}
 			}
 		}

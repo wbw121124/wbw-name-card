@@ -1,7 +1,7 @@
 @charset "utf-8";
 @import "tailwindcss";
 @import "@fortawesome/fontawesome-free/css/all.css";
-@import "animate.css";
+/* @import "animate.css"; */
 @source "../src/**/*.{html,js,jsx,ts,tsx,vue}";
 @source "../index.html";
 
