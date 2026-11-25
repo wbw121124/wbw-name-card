@@ -5,8 +5,13 @@
 	<meta charset="UTF-8" />
 	<title id="title">加载中——喵！</title>
 	<link rel="llms" href="/llms.txt" aria-label="如果你是 LLM/AI 请看这个" />
+	<link rel="icon" type="image/svg+xml" href="/logo.svg" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="stylesheet" href="src/style.css">
+	<!-- 防止 XSS 攻击 -->
+	<meta http-equiv="Content-Security-Policy"
+		content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' data:; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' data:; worker-src 'self'" />
+
 	<meta name="description" content="Bowman Wells (wbw121124) 的个人名片页，展示技能、社交账号及相关项目。" />
 	<meta name="keywords" content="Bowman Wells, wbw121124, 个人名片, 前端开发, OI, Luogu, GitHub" />
 	<meta name="author" content="Bowman Wells" />
@@ -30,9 +35,6 @@
 </head>
 
 <body class="bg-dp-bg text-dp-text min-h-screen">
-	<noscript>
-		你怎么能禁用 <code>Javascript</code> 呢？喵~ :&lt;（哈气）
-	</noscript>
 
 	<div class="max-w-2xl mx-auto p-8 animate__animated animate__fadeInLeft" style="perspective: 1000px;">
 		<div role="main" id="card"
@@ -46,7 +48,9 @@
 					<h2 class="text-dp-text-muted">wbw121124 · he/him</h2>
 				</div>
 			</div>
-			<hr class="border-dp-text-disabled mb-4" />
+			<hr class="border-dp-text-disabled mb-4" /><noscript>
+				你怎么能禁用 <code>Javascript</code> 呢？喵~ :&lt;（哈气）
+			</noscript>
 			<div
 				class="border-dp-warning text-sm font-bold border-solid border-1 p-2 rounded-md mb-2 transition-shadow duration-300 shadow-dp-sm hover:shadow-dp-md">
 				<span class="line-through text-dp-text-muted">🎯 Focusing
