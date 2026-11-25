@@ -182,8 +182,6 @@ document.addEventListener("DOMContentLoaded", () => {
 		if (typeof window.initUniverse === 'undefined') {
 			window.initUniverse = initUniverse;
 		}
-
-		cleanupUniverse = initUniverse();
 	})();
 });
 
