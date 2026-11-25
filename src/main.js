@@ -19,8 +19,8 @@ document.addEventListener("DOMContentLoaded", () => {
 	}, 500);
 });
 
-// 在 my_card 被 hover 时稍微应用 css 3d 变换，微微朝向鼠标
-my_card.addEventListener("mousemove", (e) => {
+// 在 my_card 被 mousedown 时稍微应用 css 3d 变换，微微朝向鼠标
+my_card.addEventListener("mousedown", (e) => {
 	const rect = my_card.getBoundingClientRect();
 	const x = e.clientX - rect.left;
 	const y = e.clientY - rect.top;
@@ -32,6 +32,6 @@ my_card.addEventListener("mousemove", (e) => {
 		CARD_ROTATE_STRENGTH}deg) rotateY(${mx *
 		CARD_ROTATE_STRENGTH}deg)`;
 })
-my_card.addEventListener("mouseleave", () => {
+my_card.addEventListener("mouseup", () => {
 	my_card.style.transform = "";
 })

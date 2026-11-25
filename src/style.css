@@ -2,6 +2,8 @@
 @import "tailwindcss";
 @import "@fortawesome/fontawesome-free/css/all.css";
 @import "animate.css";
+@source "../src/**/*.{html,js,jsx,ts,tsx,vue}";
+@source "../index.html";
 
 :root {
 	color-scheme: dark;
@@ -14,14 +16,14 @@
 
 	/* 文本色 */
 	--dp-text: #d4d4d4;
-	--dp-text-muted: #858585;
+	--dp-text-muted: #C5C5C5;
 	--dp-text-disabled: #5a5a5a;
 
 	/* 强调色与主色 (VS Code Dark+ 灵感) */
 	--dp-primary: #569cd6;
 	--dp-accent: #C586A1;
 	--dp-success: #60994A;
-	--dp-warning: #A0850D;
+	--dp-warning: #d7ba7d;
 	--dp-error: #F14C4C;
 }
 
@@ -53,4 +55,22 @@
 
 .floating {
 	transform: translate3d(0, 0, 10px);
+}
+
+/* 键盘焦点可见：深色背景下默认 outline 不明显 */
+:focus-visible {
+	outline: 2px solid var(--dp-primary);
+	outline-offset: 2px;
+	border-radius: 2px;
+}
+
+/* 尊重系统减弱动效偏好：关闭入场动画与过渡 */
+@media (prefers-reduced-motion: reduce) {
+
+	#card,
+	#card *,
+	.floating {
+		transition: none !important;
+		animation: none !important;
+	}
 }

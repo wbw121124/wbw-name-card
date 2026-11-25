@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lh:test": "vite build && start-server-and-test preview http://localhost:4173 'lighthouse http://localhost:4173  --chrome-flags=\"--headless=new\" --output csv --output-path ./dist/lighthouse-report.csv' && node -e \"console.log(require('fs').readFileSync('./dist/lighthouse-report.csv', 'utf8'))\""
   },
   "keywords": [],
   "author": "wbw121124",
@@ -16,8 +17,10 @@
     "@fullhuman/postcss-purgecss": "^9.1.0",
     "@tailwindcss/vite": "^4.3.5",
     "autoprefixer": "^10.7.0",
+    "lighthouse": "^13.6.0",
     "postcss": "^8.5.33",
     "postcss-font-display": "^0.3.0",
+    "start-server-and-test": "^3.0.13",
     "tailwindcss": "^4.3.5",
     "terser": "^5.51.4",
     "vite": "^8.3.8",
