@@ -1,22 +1,27 @@
-const my_title = document.getElementById("title");
-
 const my_card = document.getElementById("card");
 const CARD_ROTATE_STRENGTH = 1; // card 鼠标靠近时的旋转强度
+const CARD_TITLE = "wbw121124 的个人名片——喵~";
 
 const my_avatar = document.getElementById("avatar");
+let cleanupUniverse = null;
+const prefersReducedMotion = window.matchMedia?.("(prefers-reduced-motion: reduce)");
 
 document.addEventListener("DOMContentLoaded", () => {
-	setTimeout(() => {
-		const text = "wbw121124 的名片——喵~";
-		let cnt = 0;
-		const f = () => {
-			my_title.innerText = text.substring(0, ++cnt);
-			if (cnt != text.length)
-				setTimeout(f,
-					text.charCodeAt(cnt - 1) < 128 ? 50 : 125);
-		};
-		f();
-	}, 500);
+	if (prefersReducedMotion?.matches) {
+		document.title = CARD_TITLE;
+	} else {
+		setTimeout(() => {
+			const text = CARD_TITLE;
+			let cnt = 0;
+			const f = () => {
+				document.title = text.substring(0, ++cnt);
+				if (cnt != text.length)
+					setTimeout(f,
+						text.charCodeAt(cnt - 1) < 128 ? 50 : 125);
+			};
+			f();
+		}, 500);
+	}
 	(() => {
 		/*
 		以下代码基于以下 ISC 许可代码修改而来：
@@ -25,6 +30,8 @@ document.addEventListener("DOMContentLoaded", () => {
 		修改内容：已进行修改以适应本项目的需要。
 		*/
 		function initUniverse() {
+			if (prefersReducedMotion?.matches) return null;
+
 			window.requestAnimationFrame = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
 
 			const canvas = document.getElementById("universe");
@@ -182,22 +189,47 @@ document.addEventListener("DOMContentLoaded", () => {
 		if (typeof window.initUniverse === 'undefined') {
 			window.initUniverse = initUniverse;
 		}
+
+		// 显式启动星空背景；返回 cleanup 供后续按需停止
+		cleanupUniverse = initUniverse();
 	})();
 });
 
-// 在 my_card 被 mousedown 时稍微应用 css 3d 变换，微微朝向鼠标
-my_card.addEventListener("mousedown", (e) => {
-	const rect = my_card.getBoundingClientRect();
-	const x = e.clientX - rect.left;
-	const y = e.clientY - rect.top;
-	const w = rect.width;
-	const h = rect.height;
+// 3D 倾斜：down 立即更新，按住期间 move 持续更新，up/cancel/leave/blur 复位
+let pressed = false;
+let cachedRect = null;
+
+function updateTilt(e) {
+	if (prefersReducedMotion?.matches || !cachedRect) return;
+	const { left, top, width: w, height: h } = cachedRect;
+	if (!w || !h) return;
+	const x = Math.min(Math.max(e.clientX - left, 0), w);
+	const y = Math.min(Math.max(e.clientY - top, 0), h);
 	const mx = 0.5 - x / w;
 	const my = y / h - 0.5;
-	my_card.style.transform = `rotateX(${my *
-		CARD_ROTATE_STRENGTH}deg) rotateY(${mx *
-		CARD_ROTATE_STRENGTH}deg)`;
-})
-my_card.addEventListener("mouseup", () => {
+	my_card.style.transform = `rotateX(${my * CARD_ROTATE_STRENGTH}deg) rotateY(${mx * CARD_ROTATE_STRENGTH}deg)`;
+}
+
+function resetCardTilt() {
+	pressed = false;
+	cachedRect = null;
 	my_card.style.transform = "";
-})
+}
+
+my_card.addEventListener("pointerdown", (e) => {
+	if (prefersReducedMotion?.matches || e.target.closest("a")) return;
+	// 阻止浏览器把按下拖动识别为文本选择/手势，避免 pointercancel 打断倾斜
+	// e.preventDefault(); // 傻子 ai 写的，这根本不会被打断
+	pressed = true;
+	cachedRect = my_card.getBoundingClientRect();
+	updateTilt(e);
+});
+
+my_card.addEventListener("pointermove", (e) => {
+	if (pressed) updateTilt(e);
+});
+
+["pointerup", "pointercancel", "pointerleave"].forEach((type) => {
+	my_card.addEventListener(type, resetCardTilt);
+});
+window.addEventListener("blur", resetCardTilt);

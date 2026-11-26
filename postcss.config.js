@@ -20,6 +20,8 @@ export default {
         // /^fab-/,
         // 如果 animate.css 有动态类名，也可能需要保留
         // /^animate-/,
+        // PurgeCSS 默认提取器会把 `sm:hidden` 拆成 `sm` 和 `hidden`，导致响应式变体被删
+        /^(sm|md|lg|xl|2xl):/,
         /^hover:/,
       ],
 
