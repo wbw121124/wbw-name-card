@@ -4,6 +4,8 @@ export default {
     'postcss-font-display': {
       // 默认就是 swap，也可以设为 optional, block, fallback
       display: 'swap',
+      // FontAwesome 自带 font-display: block；默认只补缺不覆盖，必须显式开启替换
+      replace: true,
     },
     '@fullhuman/postcss-purgecss': {
       // 指定要扫描的文件路径

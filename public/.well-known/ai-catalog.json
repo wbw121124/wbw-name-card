@@ -1,1 +1,46 @@
-{}
+{
+  "specVersion": "1.0",
+  "entries": [
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "@id": "urn:air:card.wbw121124.dpdns.org:wbw-namecard",
+      "identifier": "urn:air:card.wbw121124.dpdns.org:wbw-namecard",
+      "displayName": "Bowman Wells 的个人名片",
+      "type": "application/agent-card+json",
+      "data": {
+        "name": "Bowman Wells",
+        "url": "https://card.wbw121124.dpdns.org/",
+        "description": "Personal profile card with skills, projects, and social links.",
+        "capabilities": [
+          "Profile",
+          "Skills",
+          "SocialLinks",
+          "Projects"
+        ],
+        "contact": {
+          "email": "wbw121124@outlook.com"
+        }
+      },
+      "description": "Bowman Wells (wbw121124) 的个人名片页，展示身份、技能栈、社交账号与项目链接。",
+      "capabilities": [
+        "Profile",
+        "Skills",
+        "SocialLinks",
+        "Projects"
+      ],
+      "representativeQueries": [
+        "Bowman Wells 是谁",
+        "wbw121124 的技能栈有哪些",
+        "如何联系 Bowman Wells"
+      ],
+      "tags": [
+        "个人名片",
+        "前端开发",
+        "OI",
+        "开源"
+      ],
+      "version": "1.0.0",
+      "updatedAt": "2026-11-26T11:50:00+08:00"
+    }
+  ]
+}
